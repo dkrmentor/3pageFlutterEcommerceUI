@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ecommerce_ui/history.dart';
 
 import 'home.dart';
 
@@ -21,4 +20,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-

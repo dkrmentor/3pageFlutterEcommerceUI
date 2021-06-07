@@ -71,7 +71,8 @@ class _historyState extends State<history> {
 
 Widget chatTile1() {
   return ListTile(
-    leading: CircleAvatar(
+    leading: 
+    CircleAvatar(
       backgroundImage: AssetImage("assets/iphone 12.jpg"),
       // backgroundColor: Colors.green,
       radius: 20,
