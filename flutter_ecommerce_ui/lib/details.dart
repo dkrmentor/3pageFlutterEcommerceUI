@@ -64,7 +64,8 @@ Widget cardTile1() {
       width: double.maxFinite,
       child: Card(
           // elevation: 5,
-          child: Container(
+          child: 
+          Container(
         child: Row(children: [
           Column(
             children: [
